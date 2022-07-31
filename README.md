@@ -42,6 +42,21 @@ Demo下载点击[BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)
 - [HTTP Live Streaming 详解](https://github.com/pro648/tips/blob/master/sources/HTTP%20Live%20Streaming%20%E8%AF%A6%E8%A7%A3.md)
 - [五种常见流媒体协议](https://github.com/pro648/tips/blob/master/sources/%E4%BA%94%E7%A7%8D%E5%B8%B8%E8%A7%81%E6%B5%81%E5%AA%92%E4%BD%93%E5%8D%8F%E8%AE%AE.md)
 
+### Swift
+
+
+- [面向协议编程](https://github.com/pro648/tips/blob/master/sources/%E9%9D%A2%E5%90%91%E5%8D%8F%E8%AE%AE%E7%BC%96%E7%A8%8B.md)
+- [strong、weak和unowned的区别](https://github.com/pro648/tips/blob/master/sources/strong%E3%80%81weak%E5%92%8Cunowned%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+- [map、filter、reduce的用法](https://github.com/pro648/tips/blob/master/sources/map%E3%80%81filter%E3%80%81reduce%E7%9A%84%E7%94%A8%E6%B3%95.md)
+- [struct和class区别](https://github.com/pro648/tips/blob/master/sources/struct%E5%92%8Cclass%E5%8C%BA%E5%88%AB.md)
+
+### CoreGraphics
+
+- [CoreGraphics系列一：path](https://github.com/pro648/tips/blob/master/sources/CoreGraphics%E7%B3%BB%E5%88%97%E4%B8%80%EF%BC%9Apath.md)
+- [CoreGraphics系列二：gradient和context](https://github.com/pro648/tips/blob/master/sources/CoreGraphics%E7%B3%BB%E5%88%97%E4%BA%8C%EF%BC%9Agradient%E5%92%8Ccontext.md)
+- [CoreGraphics系列三：pattern和transparency layer](https://github.com/pro648/tips/blob/master/sources/CoreGraphics%E7%B3%BB%E5%88%97%E4%B8%89%EF%BC%9Apattern%E5%92%8Ctransparency%20layer.md)
+- [图像下采样](https://github.com/pro648/tips/blob/master/sources/%E5%9B%BE%E5%83%8F%E4%B8%8B%E9%87%87%E6%A0%B7.md)
+
 ### 数据库
 
 - [SQLite的使用一](https://github.com/pro648/tips/blob/master/sources/SQLite%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%80.md)
@@ -98,9 +113,12 @@ Demo下载点击[BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)
 - [KVC、KVO的本质](https://github.com/pro648/tips/blob/master/sources/KVC%E3%80%81KVO%E7%9A%84%E6%9C%AC%E8%B4%A8.md)
 - [分类category、load、initialize的本质和源码分析](https://github.com/pro648/tips/blob/master/sources/%E5%88%86%E7%B1%BBcategory%E3%80%81load%E3%80%81initialize%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%92%8C%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
 - [关联对象 Associated Object 的本质](https://github.com/pro648/tips/blob/master/sources/%E5%85%B3%E8%81%94%E5%AF%B9%E8%B1%A1%20Associated%20Object%20%E7%9A%84%E6%9C%AC%E8%B4%A8.md)
+- [Block的本质](https://github.com/pro648/tips/blob/master/sources/Block%E7%9A%84%E6%9C%AC%E8%B4%A8.md)
 - [Runtime从入门到进阶一](https://github.com/pro648/tips/blob/master/sources/Runtime%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6%E4%B8%80.md)
 - [Runtime从入门到进阶二](https://github.com/pro648/tips/blob/master/sources/Runtime%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6%E4%BA%8C.md)
 - [RunLoop从入门到进阶](https://github.com/pro648/tips/blob/master/sources/RunLoop%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6.md)
+- [Mach-O可执行文件](https://github.com/pro648/tips/blob/master/sources/Mach-O%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6.md)
+- [地址空间布局随机化ASLR及iOS内核如何实现随机化](https://github.com/pro648/tips/blob/master/sources/%E5%9C%B0%E5%9D%80%E7%A9%BA%E9%97%B4%E5%B8%83%E5%B1%80%E9%9A%8F%E6%9C%BA%E5%8C%96ASLR%E5%8F%8AiOS%E5%86%85%E6%A0%B8%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E9%9A%8F%E6%9C%BA%E5%8C%96.md)
 
 
 ### Texture:
@@ -127,12 +145,20 @@ Demo下载点击[BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)
 - [迭代器模式 Iterator Pattern](https://github.com/pro648/tips/blob/master/sources/%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F%20Iterator%20Pattern.md)
 - [适配器模式 Adapter Pattern](https://github.com/pro648/tips/blob/master/sources/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F%20Adapter%20Pattern.md)
 
+### SOLID原则
+
+- [单一职责原则](https://github.com/pro648/tips/blob/master/sources/%E5%8D%95%E4%B8%80%E8%81%8C%E8%B4%A3%E5%8E%9F%E5%88%99.md)
+- [开闭原则](https://github.com/pro648/tips/blob/master/sources/%E5%BC%80%E9%97%AD%E5%8E%9F%E5%88%99.md)
+- [里氏替换原则](https://github.com/pro648/tips/blob/master/sources/%E9%87%8C%E6%B0%8F%E6%9B%BF%E6%8D%A2%E5%8E%9F%E5%88%99.md)
+- [接口隔离原则](https://github.com/pro648/tips/blob/master/sources/%E6%8E%A5%E5%8F%A3%E9%9A%94%E7%A6%BB%E5%8E%9F%E5%88%99.md)
+
 
 ### 工具
 
 - [CocoaPods的安装与使用](https://github.com/pro648/tips/blob/master/sources/CocoaPods%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8.md)
 - [使用CocoaPods创建公开、私有pod](https://github.com/pro648/tips/blob/master/sources/%E4%BD%BF%E7%94%A8CocoaPods%E5%88%9B%E5%BB%BA%E5%85%AC%E5%BC%80%E3%80%81%E7%A7%81%E6%9C%89pod.md)
 - [教你系统学习Git](https://github.com/pro648/tips/blob/master/sources/%E6%95%99%E4%BD%A0%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0Git.md)
+- [Git新功能：switch、restore](https://github.com/pro648/tips/blob/master/sources/Git%E6%96%B0%E5%8A%9F%E8%83%BD%EF%BC%9Aswitch%E3%80%81restore.md)
 - [LLDB的使用](https://github.com/pro648/tips/blob/master/sources/LLDB%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 - [正则表达式NSRegularExpression](https://github.com/pro648/tips/blob/master/sources/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8FNSRegularExpression.md)
 - [正则表达式possessive、greediness和laziness区别](https://github.com/pro648/tips/blob/master/sources/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8Fpossessive%E3%80%81greediness%E5%92%8Claziness%E5%8C%BA%E5%88%AB.md)
